@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import java.io.Serializable;
 
 /**
- * @author: 郭清泉
+ * @author: 
  * @date: 2015/3/28
  * @version: v1.0.
  * @description:
