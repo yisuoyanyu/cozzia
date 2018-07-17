@@ -9,7 +9,7 @@ import org.apache.struts2.convention.annotation.ParentPackage;
 import java.lang.annotation.Documented;
 
 /**
- * @author: 郭清泉
+ * @author: 
  * @date: 2015/3/28
  * @version: v1.0.
  * @description:
